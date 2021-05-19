@@ -1,0 +1,107 @@
+body {
+  background-color: #e4fbff;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+  font-size: 1em;
+}
+
+h1 {
+  font-family: 'Yesteryear', cursive;
+  font-size: 5.632rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+
+h3 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 2.5rem;
+  color: #11999E;
+  margin: auto;
+}
+
+a {
+  color: #11999E;
+}
+
+hr{
+  width: 20%;
+  border-color: #EAF6F6;
+  border-style: dotted none none none;
+  border-width: 10px;
+}
+
+
+.skill-row{
+  width:50%;
+  margin:50px auto 50px auto;
+  text-align:left;
+  line-height: 2;
+}
+
+.profile-img{
+  width:10%;
+  border-radius: 30%;
+  margin-top: 50px;
+}
+
+.coding-img{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+.sports-img{
+  width:25%;
+  float:right;
+  margin-right: 30px;
+}
+
+/* .sports-desc{
+  clear:right;
+} */
+
+.top-cloud {
+  position: relative;
+  left: 400px;
+}
+
+.bottom-forest {
+  width: 100%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 350px;
+}
+
+.top-container {
+  padding-top: 50px;
+}
+
+.bottom-container{
+  background-color:#66BFBF;
+  padding:50px;
+  margin-top: 20px;
+}
+
+.btn{
+  background-color: #66BFBF;
+  font-family: 'Roboto Slab', serif;
+  text-align: center;
+  font-size: 1em;
+
+}
+
+.footer-link{
+  margin:10px;
+}
